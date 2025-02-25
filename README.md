@@ -6,4 +6,4 @@ The program is designed to monitor the contents of export_service.txt and then c
 
 Given the purpose of the program is to adapt and export the contents of a text file, the only information available to the calling program on completion of the process will be a confirmation string written to export_response.txt that states where the file was sent to; this may be read and displayed as desired.
 
-[Sequence diagram for this project](Sequence diagram.jpeg)
+[Sequence diagram for this project](Sequence%20diagram.jpeg)
