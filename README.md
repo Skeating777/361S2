@@ -4,6 +4,6 @@ Running this program locally will require installation of pandas Library.
 
 The program is designed to monitor the contents of export_service.txt and then clear it when done, so the program will run until terminated once started. In order to initiate the export, "run" needs to be written to export_service.txt. 
 
-Given the purpose of the program is to adapt and export the contents of a text file, the only information available to the calling program on completion of the process will be a confirmation string written to export_response.txt that states where the file was sent to; this may be read and displayed as desired. 
+Given the purpose of the program is to adapt and export the contents of a text file, the only information available to the calling program on completion of the process will be a confirmation string written to export_response.txt that states where the file was sent to; this may be read and displayed as desired.
 
-[Sequence diagram for this project](Sequence diagram.png)
+![Sequence diagram for this project](Sequence diagram.png)
