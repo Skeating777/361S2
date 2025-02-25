@@ -1,0 +1,10 @@
+Location/Country/Distance
+Cork/IE/4581.05
+Mykonos/GR/6278.12
+Palma/ES/5579.51
+Sardinia/IT/5731.21
+Osaka/JP/4995.0
+Buenos Aires/AR/6912.28
+Melbourne/AU/8149.7
+Kishtwar/IN/6765.31
+Lyon/FR/5285.99
