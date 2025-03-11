@@ -26,4 +26,6 @@ while True:
         text = open("export_service.txt", "w")
         text.close()
     elif content == "terminate":
+        text = open("export_service.txt", "w")
+        text.close()
         sys.exit()
