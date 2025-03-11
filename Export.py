@@ -1,3 +1,5 @@
+import sys
+
 import pandas
 import pathlib
 import os
@@ -23,3 +25,5 @@ while True:
 
         text = open("export_service.txt", "w")
         text.close()
+    elif content == "terminate":
+        sys.exit()
